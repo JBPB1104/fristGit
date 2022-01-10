@@ -9,7 +9,7 @@
 	Hello world!  
 </h1>
 <h1>최초 프로젝트 실허</h1>
-
+<h3>폐기 기능은 commitㅎ기 전 상태의 내용을 완전 삭제</h3>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
