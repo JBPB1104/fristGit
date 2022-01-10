@@ -22,4 +22,9 @@
 >>>>>>> parent of 4267fa9 (리버스 커밋 내용 추가)
 <P>  The time on the server is ${serverTime}. </P>
 </body>
+
+<script>
+	var arr = [];
+
+</script>
 </html>
