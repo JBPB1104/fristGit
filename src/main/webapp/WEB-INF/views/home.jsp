@@ -24,4 +24,13 @@
 <button>버튼</button>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
+
+<script>
+	var arr = [];
+	
+	arr.push(1);
+	arr.push(2);
+	arr.push(3);
+	arr.push(4);
+</script>
 </html>
