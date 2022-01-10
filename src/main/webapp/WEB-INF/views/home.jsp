@@ -5,6 +5,8 @@
 	<title>Home</title>
 </head>
 <body>
+
+<nav></nav>
 <h1>
 	Hello world!  
 </h1>
